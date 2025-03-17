@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WhereToGo</string>
+    <string name="reverse">Reverse</string>
 </resources>
