@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">WhereToGo</string>
-    <string name="reverse">Reverse</string>
+    <string name="reverse">Change</string>
+    <string name="up_vote">Up Vote</string>
+    <string name="down_vote">Down Vote</string>
+    <string name="comment">Comment</string>
+    <string name="more_options">More Options</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
 </resources>
